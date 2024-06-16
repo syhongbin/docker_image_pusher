@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 ailg/alist:hostmode
-alist/ggbond:latest
+ailg/ggbond:latest
