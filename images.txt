@@ -7,3 +7,4 @@ xhofe/alist:latest
 ailg/alist:hostmode
 ailg/ggbond:latest
 alist/alist:latest
+alist-org/alist:latest
