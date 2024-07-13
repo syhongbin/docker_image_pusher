@@ -1,1 +1,2 @@
 alist-org/alist:latest
+moelin/1panel:latest
